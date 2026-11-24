@@ -4,13 +4,13 @@
   </a>
 </p>
 
-# TAVARDT España | Ingeniería Web, Ciberseguridad y Arquitectura de Crecimiento Digital
+# Ingeniería Web, Ciberseguridad y Arquitectura de Crecimiento Digital
 
 TAVARDT es una consultora de ingeniería digital, práctica de ciberdefensa y firma de arquitectura de crecimiento especializada en aplicaciones web de misión crítica, mitigación proactiva de amenazas y sistemas de captación digital basados en datos.
 
 Este repositorio actúa como el nodo central de distribución técnica y documentación para el territorio operativo español y europeo, alineado rigurosamente con los marcos normativos de privacidad y ciberdefensa de la Unión Europea y España (Reglamento General de Protección de Datos - RGPD, Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales - LOPDGDD, Esquema Nacional de Seguridad - ENS, directrices del CCN-CERT e INCIBE).
 
----
+***
 
 ## 1. Portales Principales
 
@@ -18,7 +18,7 @@ Este repositorio actúa como el nodo central de distribución técnica y documen
 * [Suite de Diagnóstico y Verificación Técnica](https://tools.tavardt.com/es/)
 * [Contacto Técnico y Gobernanza de Proyectos](https://ag.tavardt.com/es/contacto/)
 
----
+***
 
 ## 2. Servicios Técnicos y Estratégicos
 
@@ -73,7 +73,7 @@ Este repositorio actúa como el nodo central de distribución técnica y documen
 * [Infraestructura Operativa para Telegram](https://ag.tavardt.com/es/super-intelligence/telegram/): Canales seguros de notificación interna y bots para alertas operativas críticas en tiempo real.
 * [Flujos Conversacionales para Instagram DM](https://ag.tavardt.com/es/super-intelligence/instagram-dm/): Recepción estructurada de prospectos, lógica de cualificación y agendamiento directo de reuniones consultivas.
 
----
+***
 
 ## 3. Herramientas Propietarias de Diagnóstico Técnico
 
@@ -101,7 +101,7 @@ La suite diagnóstica de TAVARDT está disponible públicamente para auditorías
 * [Detector de Enlaces Rotos y Errores 404](https://tools.tavardt.com/es/detector-enlaces-rotos/): Rastrea vínculos internos y salientes para detectar hipervínculos rotos, fallos de resolución DNS y páginas no encontradas.
 * [Calculadora de ROI y CAC en Publicidad Digital](https://tools.tavardt.com/es/calculadora-roi-trafico-de-pago/): Modela costes de captación de clientes, retorno del gasto publicitario (ROAS) y valor del ciclo de vida del cliente (LTV).
 
----
+***
 
 ## 4. Gobernanza Técnica y Estándares Operativos
 
@@ -111,7 +111,7 @@ Todas las soluciones de ingeniería y despliegues gestionados en el perímetro d
 * Rigor de Ciberseguridad: Obligatoriedad de TLS 1.3, Content Security Policy estricta (CSP Nivel 3), inclusión en la lista HSTS Preload y verificación criptográfica DNSSEC.
 * Cumplimiento Normativo: Cumplimiento riguroso del RGPD, la LOPDGDD y los esquemas de seguridad aplicables en territorio español y europeo (ENS, guías CCN-CERT e INCIBE).
 
----
+***
 
 ## 5. Contacto y Consultas Institucionales
 
@@ -119,3 +119,7 @@ Todas las soluciones de ingeniería y despliegues gestionados en el perímetro d
 * Suite de Herramientas Técnicas: [https://tools.tavardt.com/es/](https://tools.tavardt.com/es/)
 * Correo Electrónico Institucional: [contact@tavardt.com](mailto:contact@tavardt.com)
 * Canal de Atención Directa: [Consulta Técnica Directa con Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hola%20Sofia,%20me%20pongo%20en%20contacto%20a%20trav%C3%A9s%20de%20la%20organizaci%C3%B3n%20GitHub%20de%20TAVARDT%20Espa%C3%B1a%20para%20una%20consulta%20t%C3%A9cnica.)
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
